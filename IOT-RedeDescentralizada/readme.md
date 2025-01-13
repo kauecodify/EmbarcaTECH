@@ -100,6 +100,8 @@ Biblioteca de Criptografia PyCrypto ou PyCryptodome para AES-256
 Implementação do Protocolo Matrix (SDK como matrix-nio para Python)
 
 MQTT ou CoAP para comunicação leve
+![image](https://github.com/user-attachments/assets/9142efd8-d129-4db5-97b0-d18bf2e51fad)
+
 
 
 ---
@@ -123,8 +125,8 @@ Implemente criptografia AES-256 para os dados coletados:
 
 ![image](https://github.com/user-attachments/assets/88ccde83-cf57-4927-a947-a162af5655a2)
 
+![image](https://github.com/user-attachments/assets/624010f2-cdd6-470f-95da-ac24a4df99b5)
 
-em modificação...
 
 
 
