@@ -77,7 +77,15 @@
 
 
 
-- Sensores e atuadores para IoT (opcional)
+- Sensores e atuadores para IoT
+
+- sensor de temperatura > DHT22 ; Biblioteca > Adafruit
+![imagem_2025-01-13_123434165-removebg-preview](https://github.com/user-attachments/assets/37e0f30d-cf8a-4542-a0f8-36949b898177)
+
+
+- sensor de gps satelical > u-blox Neo-6m gps module ; Biblioteca: Python gps library
+![imagem_2025-01-13_104607277-removebg-preview](https://github.com/user-attachments/assets/3ab07185-d770-4f6d-8016-913f5f21366d)
+
 
 
 ---
