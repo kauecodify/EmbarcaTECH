@@ -18,6 +18,12 @@
 ![image](https://github.com/user-attachments/assets/61b660a6-570f-43e3-8d8d-5e480b838238)
 
 
+4. Já para a comunicação I2C, iremos utilizar o DS1307, que é um Real Time Clock – RTC disponível no simulador Wokwi. O endereço I2C do DS1307 é 0x68. Um RTC é um hardware que garante a contagem de tempo na unidade de segundos. Muitos microcontroladores possuem RTC internos, mas alguns fazem uso de hardware externos. Para ler os valores, é necessário inicialmente configurar um valor de data e hora que deve, por exemplo, ser configurado manualmente pelo usuário. Nessa questão você deverá configurar o RTC para 24/09/2024 –13:27:00 e em seguida, realizar a leitura do mesmo a cada 5 segundos, e imprimir na tela do console (Serial USB) o valor lido. Na tabela a seguirão apresentados os principais endereços do RTC DS1307.
+
+![image](https://github.com/user-attachments/assets/ccd0955b-67ac-4b58-8439-2940b43ba50c)
+
+
+
 
 
 
