@@ -9,7 +9,8 @@
 2. Na questão anterior, implemente o botão B, para mudar a frequência do LED para 1 Hz.
 
 
-![image](https://github.com/user-attachments/assets/d8a535d1-d350-4fbf-a7c1-e763abeb0042)
+![image](https://github.com/user-attachments/assets/d01754f1-0352-448a-807d-31cd262dc59d)
+
 
 
 
