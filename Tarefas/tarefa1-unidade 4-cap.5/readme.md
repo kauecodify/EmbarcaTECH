@@ -3,5 +3,13 @@
 
 # Wokwi - exercícios
 
+1. Elabore um programa para acionar um LED quando o botão A for pressionado 5 vezes, utilizando o temporizador como contador. Quando o valor da contagem atingir 5 vezes, um LED deve ser piscar por 10 segundos na frequência de 10 Hz.
+
+      
+2. Na questão anterior, implemente o botão B, para mudar a frequência do LED para 1 Hz.
+
+
+![image](https://github.com/user-attachments/assets/d8a535d1-d350-4fbf-a7c1-e763abeb0042)
+
 
 
