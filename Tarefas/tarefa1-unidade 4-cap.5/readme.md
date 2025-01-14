@@ -22,6 +22,17 @@
 
 ![image](https://github.com/user-attachments/assets/ccd0955b-67ac-4b58-8439-2940b43ba50c)
 
+5. Modifique o exemplo de código apresentado na videoaula (reproduzido abaixo) para controlar os três LEDs RGB da placa BitDogLab usando o módulo PWM e interrupções, seguindo as orientações a seguir:
+
+A. O LED vermelho deve ser acionado com um PWM de 1kHz.
+
+B. O duty cycle deve ser iniciado em 5% e atualizado a cada 2 segundos em incrementos de 5%. Quando atingir o valor máximo, deve retornar a 5%.
+
+       ‐ O LED azul deve ser acionado com um PWM de 10kHz.
+
+       
+![Captura de tela 2025-01-14 173955](https://github.com/user-attachments/assets/42ea2d98-5390-4782-9377-a407f9c0f2af)
+
 
 
 
