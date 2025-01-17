@@ -33,7 +33,8 @@ B. O duty cycle deve ser iniciado em 5% e atualizado a cada 2 segundos em increm
 
 ![image](https://github.com/user-attachments/assets/6b22dddb-7040-4b3b-8e09-775f13611b2d)
 
-![Captura de tela 2025-01-14 173955](https://github.com/user-attachments/assets/42ea2d98-5390-4782-9377-a407f9c0f2af)
+![image](https://github.com/user-attachments/assets/043a361c-1f52-465f-8af5-be4080a298ce)
+
 
 6. Refaça o programa pratico 01 presente no Ebook do Capítulo de ADC, mude a unidade de medida da temperatura de celsius para Fahrenheit.
 
