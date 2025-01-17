@@ -29,13 +29,18 @@ A. O LED vermelho deve ser acionado com um PWM de 1kHz.
 B. O duty cycle deve ser iniciado em 5% e atualizado a cada 2 segundos em incrementos de 5%. Quando atingir o valor máximo, deve retornar a 5%.
 
        ‐ O LED azul deve ser acionado com um PWM de 10kHz.
-
        
+
+![image](https://github.com/user-attachments/assets/6b22dddb-7040-4b3b-8e09-775f13611b2d)
+
 ![Captura de tela 2025-01-14 173955](https://github.com/user-attachments/assets/42ea2d98-5390-4782-9377-a407f9c0f2af)
 
 6. Refaça o programa pratico 01 presente no Ebook do Capítulo de ADC, mude a unidade de medida da temperatura de celsius para Fahrenheit.
 
 ![Captura de tela 2025-01-16 230035](https://github.com/user-attachments/assets/5d329e87-f9d9-4531-858a-1184de61bdd7)
+
+
+
 
 
 
