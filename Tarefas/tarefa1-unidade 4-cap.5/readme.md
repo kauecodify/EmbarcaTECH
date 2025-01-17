@@ -42,7 +42,7 @@ B. O duty cycle deve ser iniciado em 5% e atualizado a cada 2 segundos em increm
 
 
 
-
+by kauecodify...
 
 
 
